@@ -1,7 +1,7 @@
 ---
 title: 'M.1 数学随笔（1）极限与连续性证明'
-date: 2012-08-14
-permalink: /posts/M-1/
+date: 2025-02-06
+permalink: /posts/2025/02/M-1/
 tags:
   - math
 ---
