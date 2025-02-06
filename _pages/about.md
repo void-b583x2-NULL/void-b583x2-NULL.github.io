@@ -14,3 +14,11 @@ My research interest is much about generative AI, especially based on language m
 Personally, I'm a favor of Chinese Music, having an experiece of playing the Chinese 2-string fiddle (*erhu*) for over 15 years, and once served as the chief in the Chinese student orchestra of the China Welfare Institute Children's Palace. During my undergraduate years, I served as the conductor of the student Chinese music club there for one and a half years. Another interest of mine is *mahjong*, while I'm currently with an Ms2 ranking in the *riichi mahjong* game *MajSoul*.
 
 More details can be found in my [CV](../files/Resume_yangxu_modified.pdf).
+
+Publications
+=====
+Hu, Xiangkun, et al. "Knowledge-Centric Hallucination Detection." Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing. 2024.
+
+Zheng, Yuxiang, et al. "OpenResearcher: Unleashing AI for Accelerated Scientific Research." arXiv preprint arXiv:2408.06941 (2024).
+
+Zhu, Zichen, et al. "Multi: Multimodal Understanding Leaderboard with Text and Images." arXiv preprint arXiv:2402.03173 (2024).
